@@ -1,0 +1,14 @@
+C:\Users\Vesna\Desktop\gj\ДОМАШКА_СПИРИДОНОВА422\bin\Debug\net8.0\ДОМАШКА_СПИРИДОНОВА422.exe
+C:\Users\Vesna\Desktop\gj\ДОМАШКА_СПИРИДОНОВА422\bin\Debug\net8.0\ДОМАШКА_СПИРИДОНОВА422.deps.json
+C:\Users\Vesna\Desktop\gj\ДОМАШКА_СПИРИДОНОВА422\bin\Debug\net8.0\ДОМАШКА_СПИРИДОНОВА422.runtimeconfig.json
+C:\Users\Vesna\Desktop\gj\ДОМАШКА_СПИРИДОНОВА422\bin\Debug\net8.0\ДОМАШКА_СПИРИДОНОВА422.dll
+C:\Users\Vesna\Desktop\gj\ДОМАШКА_СПИРИДОНОВА422\bin\Debug\net8.0\ДОМАШКА_СПИРИДОНОВА422.pdb
+C:\Users\Vesna\Desktop\gj\ДОМАШКА_СПИРИДОНОВА422\obj\Debug\net8.0\ДОМАШКА_СПИРИДОНОВА422.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vesna\Desktop\gj\ДОМАШКА_СПИРИДОНОВА422\obj\Debug\net8.0\ДОМАШКА_СПИРИДОНОВА422.AssemblyInfoInputs.cache
+C:\Users\Vesna\Desktop\gj\ДОМАШКА_СПИРИДОНОВА422\obj\Debug\net8.0\ДОМАШКА_СПИРИДОНОВА422.AssemblyInfo.cs
+C:\Users\Vesna\Desktop\gj\ДОМАШКА_СПИРИДОНОВА422\obj\Debug\net8.0\ДОМАШКА_СПИРИДОНОВА422.csproj.CoreCompileInputs.cache
+C:\Users\Vesna\Desktop\gj\ДОМАШКА_СПИРИДОНОВА422\obj\Debug\net8.0\ДОМАШКА_СПИРИДОНОВА422.dll
+C:\Users\Vesna\Desktop\gj\ДОМАШКА_СПИРИДОНОВА422\obj\Debug\net8.0\refint\ДОМАШКА_СПИРИДОНОВА422.dll
+C:\Users\Vesna\Desktop\gj\ДОМАШКА_СПИРИДОНОВА422\obj\Debug\net8.0\ДОМАШКА_СПИРИДОНОВА422.pdb
+C:\Users\Vesna\Desktop\gj\ДОМАШКА_СПИРИДОНОВА422\obj\Debug\net8.0\ДОМАШКА_СПИРИДОНОВА422.genruntimeconfig.cache
+C:\Users\Vesna\Desktop\gj\ДОМАШКА_СПИРИДОНОВА422\obj\Debug\net8.0\ref\ДОМАШКА_СПИРИДОНОВА422.dll

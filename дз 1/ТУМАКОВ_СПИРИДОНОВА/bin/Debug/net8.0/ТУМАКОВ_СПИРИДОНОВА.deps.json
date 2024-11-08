@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ТУМАКОВ_СПИРИДОНОВА/1.0.0": {
+        "runtime": {
+          "ТУМАКОВ_СПИРИДОНОВА.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ТУМАКОВ_СПИРИДОНОВА/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

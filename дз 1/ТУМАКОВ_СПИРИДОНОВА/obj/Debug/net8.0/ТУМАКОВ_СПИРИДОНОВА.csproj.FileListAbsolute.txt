@@ -1,0 +1,14 @@
+C:\Users\Vesna\Desktop\gj\ТУМАКОВ_СПИРИДОНОВА\bin\Debug\net8.0\ТУМАКОВ_СПИРИДОНОВА.exe
+C:\Users\Vesna\Desktop\gj\ТУМАКОВ_СПИРИДОНОВА\bin\Debug\net8.0\ТУМАКОВ_СПИРИДОНОВА.deps.json
+C:\Users\Vesna\Desktop\gj\ТУМАКОВ_СПИРИДОНОВА\bin\Debug\net8.0\ТУМАКОВ_СПИРИДОНОВА.runtimeconfig.json
+C:\Users\Vesna\Desktop\gj\ТУМАКОВ_СПИРИДОНОВА\bin\Debug\net8.0\ТУМАКОВ_СПИРИДОНОВА.dll
+C:\Users\Vesna\Desktop\gj\ТУМАКОВ_СПИРИДОНОВА\bin\Debug\net8.0\ТУМАКОВ_СПИРИДОНОВА.pdb
+C:\Users\Vesna\Desktop\gj\ТУМАКОВ_СПИРИДОНОВА\obj\Debug\net8.0\ТУМАКОВ_СПИРИДОНОВА.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vesna\Desktop\gj\ТУМАКОВ_СПИРИДОНОВА\obj\Debug\net8.0\ТУМАКОВ_СПИРИДОНОВА.AssemblyInfoInputs.cache
+C:\Users\Vesna\Desktop\gj\ТУМАКОВ_СПИРИДОНОВА\obj\Debug\net8.0\ТУМАКОВ_СПИРИДОНОВА.AssemblyInfo.cs
+C:\Users\Vesna\Desktop\gj\ТУМАКОВ_СПИРИДОНОВА\obj\Debug\net8.0\ТУМАКОВ_СПИРИДОНОВА.csproj.CoreCompileInputs.cache
+C:\Users\Vesna\Desktop\gj\ТУМАКОВ_СПИРИДОНОВА\obj\Debug\net8.0\ТУМАКОВ_СПИРИДОНОВА.dll
+C:\Users\Vesna\Desktop\gj\ТУМАКОВ_СПИРИДОНОВА\obj\Debug\net8.0\refint\ТУМАКОВ_СПИРИДОНОВА.dll
+C:\Users\Vesna\Desktop\gj\ТУМАКОВ_СПИРИДОНОВА\obj\Debug\net8.0\ТУМАКОВ_СПИРИДОНОВА.pdb
+C:\Users\Vesna\Desktop\gj\ТУМАКОВ_СПИРИДОНОВА\obj\Debug\net8.0\ТУМАКОВ_СПИРИДОНОВА.genruntimeconfig.cache
+C:\Users\Vesna\Desktop\gj\ТУМАКОВ_СПИРИДОНОВА\obj\Debug\net8.0\ref\ТУМАКОВ_СПИРИДОНОВА.dll

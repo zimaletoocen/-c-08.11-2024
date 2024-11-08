@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ДОМАШКА_СПИРИДОНОВА422/1.0.0": {
+        "runtime": {
+          "ДОМАШКА_СПИРИДОНОВА422.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ДОМАШКА_СПИРИДОНОВА422/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
